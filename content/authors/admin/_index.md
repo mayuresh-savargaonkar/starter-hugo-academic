@@ -76,9 +76,7 @@ I am a Ph.D. candidate at the University of Michigan-Dearborn.
 
 As a Machine Learning (ML) engineer, I enjoy using my talents to develop and deploy machine learning models to modern problems - including autonomous vehicles 🚗.
 
--------------------
+---
 <b> This webpage is under development! More content coming soon! </b>
 
--------------------
-
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
