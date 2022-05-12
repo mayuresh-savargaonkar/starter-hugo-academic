@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/mayuresh-savargaonkar/mayuresh-savargaonkar.github.io.git
+	branch = main
