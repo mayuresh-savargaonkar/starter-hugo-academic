@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Ph.D. Researcher
     company: University of Michigan-Dearborn
-    company_url: ''
-    company_logo:
+    company_url: 'https://umdearborn.edu/mayuresh-savargaonkar'
+    company_logo: 
     location: Dearborn, Michigan
     date_start: '2019-09-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
 
   - title: Research Intern
     company: Ford Motor Company
-    company_url: ''
+    company_url: 'https://www.ford.com'
     company_logo:
     location: Dearborn, Michigan
     date_start: '2021-06-01'
@@ -48,7 +48,7 @@ experience:
 
   - title: Industrial Engineering Program Manager
     company: Production modeling Corporation
-    company_url: ''
+    company_url: 'https://pmcorp.com'
     company_logo:
     location: Dearborn, Michigan
     date_start: '2017-05-01'
