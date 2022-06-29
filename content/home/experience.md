@@ -30,7 +30,7 @@ experience:
     date_start: '2019-09-01'
     date_end: ''
     description: |2-
-        Top research topics include:
+    	Top research topics include:
         
         * Safety of Autonomous Vehicles -  SOTIF & ISO 21448
 	* Bayesian Statistics
