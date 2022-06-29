@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Experience Highlights
 subtitle:
 
 # Date format for experience
@@ -53,7 +53,7 @@ experience:
     location: Dearborn, Michigan
     date_start: '2017-05-01'
     date_end: '2019-05-01'
-    description: Program management for laser scanning division
+    description: Program management for laser scanning division.
 design:
   columns: '2'
 ---
