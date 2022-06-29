@@ -18,6 +18,7 @@ bio: My research interests include Machine Learning, Deep Learning, Safety of Au
 
 # Interests to show in About widget
 interests:
+  - Autonomous and Connected Vehicles
   - Artificial Intelligence
   - Machine Learning
   - Time Series Modeling
