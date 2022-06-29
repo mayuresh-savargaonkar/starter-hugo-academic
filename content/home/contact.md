@@ -22,7 +22,7 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
   # Contact details (edit or remove options as required)
   email: mayuresh@umich.edu
@@ -34,16 +34,16 @@ content:
     country: United States
     country_code: US
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    latitude: '42.3207249'
+    longitude: '-83.2362437'
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: DM Me@
+      name: DM Me!
       link: 'https://twitter.com/mayuresh1016'
     - icon: linkedin
       icon_pack: fab
-      name: Lets Connect!
+      name: Let's Connect!
       link: 'https://linkedin.com/in/mayuresh-savargaonkar'
 
 
