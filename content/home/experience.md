@@ -25,7 +25,7 @@ experience:
   - title: Ph.D. Researcher
     company: University of Michigan-Dearborn
     company_url: 'https://umdearborn.edu/mayuresh-savargaonkar'
-    company_logo: umd
+    company_logo:
     location: Dearborn, Michigan
     date_start: '2019-09-01'
     date_end: ''
@@ -40,7 +40,7 @@ experience:
   - title: Research Intern
     company: Ford Motor Company
     company_url: 'https://www.ford.com'
-    company_logo: ford
+    company_logo:
     location: Dearborn, Michigan
     date_start: '2021-06-01'
     date_end: '2021-08-18'
