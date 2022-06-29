@@ -34,7 +34,7 @@ education:
       institution: University of Michigan - Dearborn
       year: 2018
     - course: B.E. Mechanical Engineering
-      institution: Univeristy of Pune
+      institution: University of Pune
       year: 2015
 
 # Social/Academic Networking
