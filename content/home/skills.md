@@ -7,7 +7,7 @@ widget: featurette
 headless: false
 
 # Order that this section appears on the page.
-weight: 30
+weight: 00
 
 title: Skills
 subtitle:
@@ -25,8 +25,8 @@ feature:
     icon_pack: fab
     name: R
   - description:
-    icon: game-board
-    icon_pack: python
+    icon: python
+    icon_pack: fab
     name: AI
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
