@@ -25,7 +25,7 @@ experience:
   - title: Ph.D. Researcher
     company: University of Michigan-Dearborn
     company_url: 'https://umdearborn.edu/mayuresh-savargaonkar'
-    company_logo:
+    company_logo: umd
     location: Dearborn, Michigan
     date_start: '2019-09-01'
     date_end: ''
