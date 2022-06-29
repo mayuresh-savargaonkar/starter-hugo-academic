@@ -54,7 +54,7 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
- image:
+image:
   caption: 'Image credit: IEEE Transactions on Industry Applications'
   focal_point: ''
   preview_only: false
