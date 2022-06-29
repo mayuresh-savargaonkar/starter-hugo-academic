@@ -25,8 +25,8 @@ feature:
     icon_pack: fab
     name: R
   - description:
-    icon: head-side-brain
-    icon_pack: fab
+    icon: abacus
+    icon_pack: fas
     name: AI & ML
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
