@@ -26,7 +26,7 @@ feature:
     name: R
   - description:
     icon: game-board
-    icon_pack: fab
+    icon_pack: python
     name: AI
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
