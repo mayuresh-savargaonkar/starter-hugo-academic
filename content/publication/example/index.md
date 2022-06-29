@@ -25,8 +25,8 @@ publishDate: '2022-04-27T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE Industry Applications Society
-publication_short: In IEEE-IAS
+publication: IEEE Transactions on Industry Applications
+publication_short:
 
 abstract: Although several state-of-charge (SOC) estimation methods have been proposed at the battery cell level, limited work has been done to identify the effect of cell aging on SOC estimations. To address this challenge, this paper proposes a novel method for estimating the SOC of Lithium-ion (Li-ion) battery cells by accurately modeling the cell aging and degradation information. The proposed method, termed as NNGP, is a deep neural network with Gaussian process feedback. The novel Gaussian process feedback helps the NNGP correlate SOC trends over consecutive charge-discharge cycles. Instead of time, the NNGP leverages available energy to correlate these SOC trends. The deep neural network within the NNGP then utilizes this information and other measured inputs to capture long-term cell aging and degradation trends. The NNGP leverages the most recent cell information to adapt its weights and estimate the SOC by employing an adaptive weighted training strategy. In our experiments on four Li-ion battery cells from three publicly available accelerated aging datasets, the NNGP clearly outperforms other benchmarked methods. The NNGP is also shown to be a useful prognostic tool capable of accurately estimating the SOC for up to 25 cycles in the future with an MAE below 3.5%. When tested under dynamic driving conditions and unknown initial SOC, the NNGP is shown to offer considerable improvements over other benchmarked state-of-art methods. The derivation of the model followed by experimental evaluation is presented.
 
@@ -54,8 +54,8 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+ image:
+  caption: 'Image credit: IEEE Transactions on Industry Applications'
   focal_point: ''
   preview_only: false
 
@@ -75,12 +75,12 @@ projects: []
 slides: "" #example
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+# {{% callout note %}}
+# Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata # into their reference management software.
+# {{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
+# {{% callout note %}}
+# Create your slides in Markdown - click the _Slides_ button to check out the example.
+# {{% /callout %}}
 
 # Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
