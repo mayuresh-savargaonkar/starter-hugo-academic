@@ -10,7 +10,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Primary author'
+  - 'Second author'
 
 date: '2022-02-01T00:00:00Z'
 doi: ' https://doi.org/10.1016/j.ress.2021.108180'
@@ -26,7 +26,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: Reliability Engineering & System Safety
-publication_short: RESS
+publication_short:
 
 abstract: Forecasting warranty claims for complex products is a reliability challenge for most manufacturers. Several factors increase the complexity of warranty claims forecasting, including, the limited number of claims reported at the early stage of launch, reporting delays, dynamic change in the fleet size, and design/manufacturing adjustments for the production line. The aggregated effect of those complexities is often referred to as the “warranty data maturation” effect. Unfortunately, most of the existing models for warranty claims forecasting fail to explicitly consider warranty data maturation. This work address warranty data maturation by proposing the Conditional Gaussian Mixture Model (CGMM). CGMM uses historical warranty data from similar products to develop a robust prior joint Gaussian mixture distribution of warranty trends at both, the current and future maturation levels. CGMM then utilizes Bayesian theories to estimate the conditional posterior distribution of the warranty claims at the future maturation level conditional on the warranty data available at the current maturation level. The CGMM identifies non-parametric temporal warranty trends and automatically clusters products into latent groups to establish (learn) an effective prior joint distribution. The CGMM is validated on an extensive automotive warranty claims dataset comprising of four model years and >15,000 different components from >10 million vehicles.
 
@@ -74,13 +74,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: "" #example
 ---
-
-# {{% callout note %}}
-# Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata # into their reference management software.
-# {{% /callout %}}
-
-# {{% callout note %}}
-# Create your slides in Markdown - click the _Slides_ button to check out the example.
-# {{% /callout %}}
-
-# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
