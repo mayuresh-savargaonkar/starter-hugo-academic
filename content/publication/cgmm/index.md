@@ -1,5 +1,5 @@
 ---
-title: 'A Novel Neural Network with Gaussian Process Feedback for Modeling the State-of-Charge of Battery Cells'
+title: 'Conditional Gaussian Mixture Model for Warranty Claims Forecasting'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -12,11 +12,11 @@ authors:
 author_notes:
   - 'Primary author'
 
-date: '2022-04-27T00:00:00Z'
-doi: ' 10.1109/TIA.2022.3170842'
+date: '2022-02-01T00:00:00Z'
+doi: ' https://doi.org/10.1016/j.ress.2021.108180'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-04-27T00:00:00Z'
+publishDate: '2022-02-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,10 +25,10 @@ publishDate: '2022-04-27T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE Transactions on Industry Applications
-publication_short:
+publication: Reliability Engineering & System Safety
+publication_short: RESS
 
-abstract: Although several state-of-charge (SOC) estimation methods have been proposed at the battery cell level, limited work has been done to identify the effect of cell aging on SOC estimations. To address this challenge, this paper proposes a novel method for estimating the SOC of Lithium-ion (Li-ion) battery cells by accurately modeling the cell aging and degradation information. The proposed method, termed as NNGP, is a deep neural network with Gaussian process feedback. The novel Gaussian process feedback helps the NNGP correlate SOC trends over consecutive charge-discharge cycles. Instead of time, the NNGP leverages available energy to correlate these SOC trends. The deep neural network within the NNGP then utilizes this information and other measured inputs to capture long-term cell aging and degradation trends. The NNGP leverages the most recent cell information to adapt its weights and estimate the SOC by employing an adaptive weighted training strategy. In our experiments on four Li-ion battery cells from three publicly available accelerated aging datasets, the NNGP clearly outperforms other benchmarked methods. The NNGP is also shown to be a useful prognostic tool capable of accurately estimating the SOC for up to 25 cycles in the future with an MAE below 3.5%. When tested under dynamic driving conditions and unknown initial SOC, the NNGP is shown to offer considerable improvements over other benchmarked state-of-art methods. The derivation of the model followed by experimental evaluation is presented.
+abstract: Forecasting warranty claims for complex products is a reliability challenge for most manufacturers. Several factors increase the complexity of warranty claims forecasting, including, the limited number of claims reported at the early stage of launch, reporting delays, dynamic change in the fleet size, and design/manufacturing adjustments for the production line. The aggregated effect of those complexities is often referred to as the “warranty data maturation” effect. Unfortunately, most of the existing models for warranty claims forecasting fail to explicitly consider warranty data maturation. This work address warranty data maturation by proposing the Conditional Gaussian Mixture Model (CGMM). CGMM uses historical warranty data from similar products to develop a robust prior joint Gaussian mixture distribution of warranty trends at both, the current and future maturation levels. CGMM then utilizes Bayesian theories to estimate the conditional posterior distribution of the warranty claims at the future maturation level conditional on the warranty data available at the current maturation level. The CGMM identifies non-parametric temporal warranty trends and automatically clusters products into latent groups to establish (learn) an effective prior joint distribution. The CGMM is validated on an extensive automotive warranty claims dataset comprising of four model years and >15,000 different components from >10 million vehicles.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis # placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -36,14 +36,14 @@ abstract: Although several state-of-charge (SOC) estimation methods have been pr
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9764385'
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0951832021006645'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -55,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: IEEE Transactions on Industry Applications'
+  caption: 'Image credit: Elsevier - RESS'
   focal_point: ''
   preview_only: false
 
