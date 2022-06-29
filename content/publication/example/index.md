@@ -1,38 +1,37 @@
 ---
-title: 'An example conference paper'
+title: 'A Novel Neural Network with Gaussian Process Feedback for Modeling the State-of-Charge of Battery Cells'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+# - Robert Ford
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 'Primary author'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2022-04-27T00:00:00Z'
+doi: ' 10.1109/TIA.2022.3170842'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-04-27T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: IEEE Industry Applications Society
+publication_short: In IEEE-IAS
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Although several state-of-charge (SOC) estimation methods have been proposed at the battery cell level, limited work has been done to identify the effect of cell aging on SOC estimations. To address this challenge, this paper proposes a novel method for estimating the SOC of Lithium-ion (Li-ion) battery cells by accurately modeling the cell aging and degradation information. The proposed method, termed as NNGP, is a deep neural network with Gaussian process feedback. The novel Gaussian process feedback helps the NNGP correlate SOC trends over consecutive charge-discharge cycles. Instead of time, the NNGP leverages available energy to correlate these SOC trends. The deep neural network within the NNGP then utilizes this information and other measured inputs to capture long-term cell aging and degradation trends. The NNGP leverages the most recent cell information to adapt its weights and estimate the SOC by employing an adaptive weighted training strategy. In our experiments on four Li-ion battery cells from three publicly available accelerated aging datasets, the NNGP clearly outperforms other benchmarked methods. The NNGP is also shown to be a useful prognostic tool capable of accurately estimating the SOC for up to 25 cycles in the future with an MAE below 3.5%. When tested under dynamic driving conditions and unknown initial SOC, the NNGP is shown to offer considerable improvements over other benchmarked state-of-art methods. The derivation of the model followed by experimental evaluation is presented.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis # placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -44,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9764385'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -65,15 +64,15 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+projects: []
+#  - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: "" #example
 ---
 
 {{% callout note %}}
@@ -84,4 +83,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
