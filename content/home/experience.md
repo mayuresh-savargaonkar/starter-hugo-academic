@@ -42,7 +42,7 @@ experience:
     company_url: ''
     company_logo:
     location: Dearborn, Michigan
-    date_start: '2021-06-1'
+    date_start: '2021-06-01'
     date_end: '2021-08-18'
     description: Advancing synthetic test capabilities for virtual verification and validation.
 
@@ -51,8 +51,8 @@ experience:
     company_url: ''
     company_logo:
     location: Dearborn, Michigan
-    date_start: '2017-05-1'
-    date_end: '2019-05-1'
+    date_start: '2017-05-01'
+    date_end: '2019-05-01'
     description: Program management for laser scanning division
 design:
   columns: '2'
