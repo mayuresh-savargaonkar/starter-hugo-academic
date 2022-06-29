@@ -18,7 +18,7 @@ subtitle:
 feature:
     icon: python
     icon_pack: fab
-    name: Python
+    name: python
   - description: 80%
     icon: r-project
     icon_pack: fab
