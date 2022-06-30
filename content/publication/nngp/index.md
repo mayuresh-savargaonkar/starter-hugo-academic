@@ -6,7 +6,8 @@ title: 'A Novel Neural Network with Gaussian Process Feedback for Modeling the S
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-# - Robert Ford
+  - Abdallah Chehade
+  - Ala A. Hussein
 
 # Author notes (optional)
 author_notes:
