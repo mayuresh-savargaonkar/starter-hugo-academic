@@ -1,9 +1,9 @@
 ---
-title: NHTSA -  ADAS Crash Report. What next?
+title: NHTSA publishes first ever ADAS related crash report, what comes next? 
 subtitle:
 
 # Summary for listings and search engines
-summary: NHTSA, crash reports, ADAS. 
+summary: NHTSA publishes first ever ADAS related crash report, what comes next? 
 
 # Link this post with a project
 projects: []
@@ -39,8 +39,6 @@ categories:
 
 ## Overview
 
-Interesting article by Wall Street Journal on the list of crashes suspected to be related to ADAS features.
-
 As more vehicles are sold with Driver Assistance features, unknown failures are on the rise. The "curse of dimensionality" critically limits our abilities to dive into the unknown of unknowns! 
 
 Many questions remain-
@@ -53,6 +51,8 @@ Many questions remain-
 
 One thing is certain- we need to critically accelerate the learning from such incidents. How to do that is the pressing question!
 
-Actual data from NHTSA- https://lnkd.in/gnmpm7sp 
+[Actual data from NHTSA-] (https://www.nhtsa.gov/press-releases/initial-data-release-advanced-vehicle-technologies)
+
+[Original Linkedin post] (https://www.linkedin.com/feed/update/urn:li:activity:6942855578893385728/)
 
 #selfdriving #autopilot #autonomousdriving #autonomousvehicles #data #safety #wallstreetjournal #ai #algorithms
