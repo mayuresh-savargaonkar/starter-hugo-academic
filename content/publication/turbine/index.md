@@ -6,7 +6,9 @@ title: 'Energy Generation Solution Using Steam Turbine'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-# - Robert Ford
+  - Pratik Sakpal
+  - Atharva Sathe
+  - Aniruddh Bulbule
 
 # Author notes (optional)
 author_notes:
