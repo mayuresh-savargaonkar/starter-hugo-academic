@@ -25,8 +25,8 @@ publishDate: '2021-02-09T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication:
-publication_short:ArXiV
+publication: ArXiV
+publication_short:
 
 abstract: Over the last few decades, many architectures have been developed that harness the power of neural networks to detect objects in near real-time. Training such systems requires substantial time across multiple GPUs and massive labeled training datasets. Although the goal of these systems is generalizability, they are often impractical in real-life applications due to flexibility, robustness, or speed issues. This paper proposes RMOPP: A robust multi-objective post-processing algorithm to boost the performance of fast pre-trained object detectors with a negligible impact on their speed. Specifically, RMOPP is a statistically driven, post-processing algorithm that allows for simultaneous optimization of precision and recall. A unique feature of RMOPP is the Pareto frontier that identifies dominant possible post-processed detectors to optimize for both precision and recall. RMOPP explores the full potential of a pre-trained object detector and is deployable for near real-time predictions. We also provide a compelling test case on YOLOv2 using the MS-COCO dataset.
 
