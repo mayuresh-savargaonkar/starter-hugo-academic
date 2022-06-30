@@ -6,7 +6,8 @@ title: 'RMOPP: Robust Multi-Objective Post-Processing for Effective Object Detec
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-# - Robert Ford
+  - Abdallah Chehade
+  - Samir Rawashdeh
 
 # Author notes (optional)
 author_notes:
