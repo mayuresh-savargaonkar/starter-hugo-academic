@@ -1,39 +1,78 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
+title: 'A Long Short-Term Memory Network for Online State-of-Charge Estimation of Li-ion Battery Cells'
 
-title: A long short-term memory network for online state-of-charge estimation of li-ion
-  battery cells
-subtitle: ''
-summary: ''
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
 authors:
-- Zunya Shi
-- Mayuresh Savargaonkar
-- Abdallah A Chehade
-- Ala A Hussein
+  - Zunya Shi
+  - admin
+  - Abdallah Chehade
+  - Ala A. Hussein
+
+# Author notes (optional)
+author_notes:
+  - 'Second author'
+
+date: '2020-08-07T00:00:00Z'
+doi: 'https://doi.org/10.1109/ITEC48692.2020.9161487'
+
+# Schedule page publish date (NOT publication's date).
+publishDate: '2020-08-07T00:00:00Z'
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ['1']
+
+# Publication name and optional abbreviated publication name.
+publication:  2020 IEEE Transportation Electrification Conference & Expo (ITEC)
+publication_short:
+
+abstract: This paper proposes a new long short-term memory neural network model to estimate the state-of-charge (SOC) of lithium-ion (Li-ion) battery cells. The proposed model improves the estimation accuracy by accounting for the changes in the battery parameters due to ageing by utilizing relevant knowledge from previous cycles when estimating the current state-of-charge. Derivation and details of the proposed model followed by experimental verification using commercial Li-ion battery cells are provided.
+
+# Summary. An optional shortened abstract.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis # placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
 tags: []
-categories: []
-date: '2020-01-01'
-lastmod: 2022-06-30T16:27:52-04:00
+
+# Display this page in the Featured widget?
 featured: false
-draft: false
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9161487'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
   focal_point: ''
   preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
 projects: []
-publishDate: '2022-06-30T20:27:51.963028Z'
-publication_types:
-- '1'
-abstract: ''
-publication: '*2020 IEEE Transportation Electrification Conference & Expo (ITEC)*'
+#  - example
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: "" #example
 ---

@@ -1,24 +1,24 @@
 ---
-title: 'A Hybrid Long Short-Term Memory Network for State-of-Charge Estimation of Li-ion Batteries'
+title: 'A Cycle-based Recurrent Neural Network for State-of-Charge Estimation of Li-ion Battery Cells'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Isaiah Oyewole
   - Abdallah Chehade
+  - Zunya Shi
   - Ala A. Hussein
 
 # Author notes (optional)
 author_notes:
   - 'Primary author'
 
-date: '2021-08-02T00:00:00Z'
-doi: ' https://doi.org/10.1109/ITEC51675.2021.9490070'
+date: '2020-08-07T00:00:00Z'
+doi: 'https://doi.org/10.1109/ITEC48692.2020.9161587'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-08-02T00:00:00Z'
+publishDate: '2020-08-07T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,10 +27,10 @@ publishDate: '2021-08-02T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication:  2021 IEEE Transportation Electrification Conference & Expo (ITEC)
+publication:  2020 IEEE Transportation Electrification Conference & Expo (ITEC)
 publication_short:
 
-abstract: This paper proposes the Sparse Autoencoded Long Short-Term Memory network (SAEL) for long-term State-of-Charge (SOC) estimations. SAEL addresses the challenge of estimating the SOC near the end-of-life after only running a few charge-discharge cycles. SAEL transforms the inputs (e.g., voltage) into a space of informative features for SOC estimations. SAEL then feeds the transformed features into an LSTM network to identify temporal trends that support long-term SOC estimation. In our experiments, SAEL outperformed benchmark models by over 63% when evaluated on three battery cells. SAEL showed an MAE of 2.6% for the last twenty cycles when trained only on the initial five charge-discharge cycles.
+abstract: This paper proposes a neural network model for state-of-charge (SOC) estimation in lithium-ion battery cells. The proposed deep neural network model is a cycle-based recurrent model that leverages relevant information from historical cycles to provide reliable estimates of the state-of-charge of on-going cycles within a mean-absolute error (MAE) of 1%. In addition, the proposed model can be trained in a relatively short time. Details on the model followed by experimental verification are provided.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis # placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -45,7 +45,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9490070'
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9161587'
 url_code: ''
 url_dataset: ''
 url_poster: ''
