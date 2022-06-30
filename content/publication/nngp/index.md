@@ -14,7 +14,7 @@ author_notes:
   - 'Primary author'
 
 date: '2022-04-27T00:00:00Z'
-doi: ' 10.1109/TIA.2022.3170842'
+doi: 'https://doi.org/10.1109/TIA.2022.3170842'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-04-27T00:00:00Z'

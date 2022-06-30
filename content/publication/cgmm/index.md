@@ -14,7 +14,7 @@ author_notes:
   - 'Second author'
 
 date: '2022-02-01T00:00:00Z'
-doi: ' https://doi.org/10.1016/j.ress.2021.108180'
+doi: 'https://doi.org/10.1016/j.ress.2021.108180'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-02-01T00:00:00Z'
