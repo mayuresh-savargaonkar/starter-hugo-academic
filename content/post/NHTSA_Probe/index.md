@@ -23,7 +23,7 @@ featured: true
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [WSJ](https://www.wsj.com/articles/tesla-tops-u-s-agency-list-of-crashes-suspected-to-involve-driver-assistance-technology-11655299175?mod=hp_lead_pos7)'
   focal_point: ''
   placement: 2
   preview_only: true
