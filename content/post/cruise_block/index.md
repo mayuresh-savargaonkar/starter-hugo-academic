@@ -25,7 +25,7 @@ featured: true
 image:
   caption: 'Image credit: [Cruise](https://www.getcruise.com)'
   focal_point: ''
-  placement: 2
+  placement: 1
   preview_only: true
 
 authors:
@@ -48,3 +48,6 @@ On the whole it looks like either a networking issue that is causing the V2X com
 3. What happens if the remote connections break down ? Can authorities unlock the vehicles and move them until Cruise employees arrive ? They arrived within a few hours in the above case!
 
 Although Cruise is a leading transportation company, I think it still needs to complete a learning curve that Waymo (and May mobility for some part) has undergone. Rather than criticizing Cruise, as always, we (the AV community) shall learn from these issues, develop safer solutions and move ahead! AVs are coming.
+
+Additional reading [here](https://www.cnbc.com/2022/07/01/self-driving-cars-from-gms-cruise-block-san-francisco-streets.html) and [here.](https://techcrunch.com/2022/06/30/cruise-robotaxis-blocked-traffic-for-hours-on-this-san-francisco-street/)
+
