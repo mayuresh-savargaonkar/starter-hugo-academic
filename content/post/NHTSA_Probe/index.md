@@ -3,7 +3,7 @@ title: NHTSA publishes first ever ADAS related crash report, what comes next?
 subtitle:
 
 # Summary for listings and search engines
-summary: NHTSA publishes first ever ADAS related crash report, what comes next? 
+summary: NHTSA finally published its first ever ADAS related crash report that provides some astonishing insights! 
 
 # Link this post with a project
 projects: []
