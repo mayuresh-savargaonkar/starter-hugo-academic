@@ -51,8 +51,7 @@ Many questions remain-
 
 One thing is certain- we need to critically accelerate the learning from such incidents. How to do that is the pressing question!
 
-Actual data from NHTSA - https://www.nhtsa.gov/press-releases/initial-data-release-advanced-vehicle-technologies
+Actual ![data](https://www.nhtsa.gov/press-releases/initial-data-release-advanced-vehicle-technologies) from NHTSA 
 
-Original LinkedIn post - https://www.linkedin.com/feed/update/urn:li:activity:6942855578893385728/
-
+Original ![post](https://www.linkedin.com/feed/update/urn:li:activity:6942855578893385728/)
 #selfdriving #autopilot #autonomousdriving #autonomousvehicles #data #safety #wallstreetjournal #ai #algorithms
