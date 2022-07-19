@@ -74,6 +74,7 @@ experience:
     date_end: '2016-07-01'
     description: |2-
         * Assisted in the development and maintenance of DVP&R and APQP activities such as DFMEA, PFMEA, CP, RCA, and GD&T.
+        
 
   columns: '2'
 ---
