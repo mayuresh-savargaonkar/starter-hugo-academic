@@ -34,7 +34,8 @@ url_video: 'https://github.com/mayuresh-savargaonkar/custom_picar/blob/master/vi
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-(LKAS.gif)
+
+<img alt="" src="LKAS.gif" />
 
 Autonomous vehicles have always intrigued me! Until today, I was fortunate to align and work along with excellent minds at the University of Michigan and Ford Motor Company. Although I have a some experience with AV stacks, I never played with hardware - until now.
 
