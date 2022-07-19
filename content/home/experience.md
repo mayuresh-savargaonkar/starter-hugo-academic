@@ -65,5 +65,15 @@ experience:
         * Implemented continous imprvement practices to reduce CAD modeling defects by over 20%.
         * Implemented risk mitigation plans and root cause analysis using a 5 Why’s system.
 
+  - title: Assitant Systems Engineer
+    company: Tata Consultancy Services (TCS)
+    company_url: 'https://tcs.com'
+    company_logo:
+    location: Bangalore, India
+    date_start: '2015-12-01'
+    date_end: '2016-07-01'
+    description: |2-
+        * Assisted in the development and maintenance of DVP&R and APQP activities such as DFMEA, PFMEA, CP, RCA, and GD&T.
+
   columns: '2'
 ---
