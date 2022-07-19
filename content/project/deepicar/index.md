@@ -46,9 +46,9 @@ Hardware -
 
 The PiCar hardware can be bought [here](https://www.amazon.com/SunFounder-Raspberry-Graphical-Programming-Electronic/dp/B06XWSVLL8) for $100 a piece. Again, David Tian does an excellent job of summarizing all necessary hardware. Again though, I wasn't able to find the 18650 batteries on amazon. I simply bought them at [BatteriesPlus](https://www.batteriesplus.com/productdetails/nure18650=1).
 
-[](img_2.jpg)
+<img alt="" src="img_2.jpg" />
 
-[](img_3.jpg)
+<img alt="" src="img_3.jpg" />
 
 Programming Skills- 
 

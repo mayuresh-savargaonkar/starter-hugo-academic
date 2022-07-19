@@ -6,7 +6,7 @@
 title: Mayuresh Savargaonkar # Website name
 baseURL: 'https://mayuresh-savargaonkar.github.io/' # Website URL
 
-disableKinds: ["sitemap"] # mayur
+#disableKinds: ["sitemap"] # mayur
 
 ############################
 ## LANGUAGE
