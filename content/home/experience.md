@@ -47,7 +47,8 @@ experience:
     date_start: '2021-06-01'
     date_end: '2021-08-18'
     description: |2-
-    
+        My top contributions projects include - 
+
         * Developed ROS-based pythonic library for Software-In-Loop (SIL) and Hardware-In-Loop (HIL) testing for L3+ ADAS features
         * Developed and deployed framework for corner-case realization within self-driving stacks.
         * Replicated processed sensor fusion (Camera, LiDAR, Radar)outputs for real-time communication with driving policies.
@@ -61,6 +62,7 @@ experience:
     date_start: '2017-05-01'
     date_end: '2019-05-01'
     description: |2-
+        My top contributions projects include - 
 
         * Responsible for cost, value, and feasibility analysis for Stellantis, Ford, BMW, and Volvo Laser/LiDAR scanning programs.
         * Implemented continous imprvement practices to reduce CAD modeling defects by over 20%.
@@ -74,7 +76,8 @@ experience:
     date_start: '2017-05-01'
     date_end: '2019-05-01'
     description: |2-
-
+        My top contributions projects include - 
+        
         * Assisted in the development and maintenance of DVP&R and APQP activities such as DFMEA, PFMEA, CP, RCA, and GD&T.
 
   columns: '2'
