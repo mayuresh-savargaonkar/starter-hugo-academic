@@ -38,43 +38,6 @@ experience:
         * Exploration of V2I and V2V technologies for safer trajectory predictions using GAN-based models.
         * Customized DL solutions for SOC/SOH/RUL estimation in Lithium-ion batteries.
         * Development of explainable AI and Bayesian methods for warranty analytics.
-
-  - title: Research Intern
-    company: Ford Motor Company
-    company_url: 'https://www.ford.com'
-    company_logo:
-    location: Dearborn, Michigan
-    date_start: '2021-06-01'
-    date_end: '2021-08-18'
-    description: |2-
-        * Developed ROS-based pythonic library for Software-In-Loop (SIL) and Hardware-In-Loop (HIL) testing for L3+ ADAS features
-        * Developed and deployed framework for corner-case realization within self-driving stacks.
-        * Replicated processed sensor fusion (Camera, LiDAR, Radar)outputs for real-time communication with driving policies.
-        * Developed OpenDrive maps for integration with CARLA simulator.
-
-  - title: Industrial Engineering Program Manager
-    company: Production modeling Corporation
-    company_url: 'https://pmcorp.com'
-    company_logo:
-    location: Dearborn, Michigan
-    date_start: '2017-05-01'
-    date_end: '2019-05-01'
-    description: |2-
-
-        * Responsible for cost, value, and feasibility analysis for Stellantis, Ford, BMW, and Volvo Laser/LiDAR scanning programs.
-        * Implemented continous imprvement practices to reduce CAD modeling defects by over 20%.
-        * Implemented risk mitigation plans and root cause analysis using a 5 Why’s system.
-
-  - title: Assitant Systems Engineer
-    company: Tata Consultancy Services (TCS)
-    company_url: 'https://tcs.com'
-    company_logo:
-    location: Bangalore, India
-    date_start: '2015-12-01'
-    date_end: '2016-07-01'
-    description: |2-
-        * Assisted in the development and maintenance of DVP&R and APQP activities such as DFMEA, PFMEA, CP, RCA, and GD&T.
         
-
   columns: '2'
 ---
