@@ -60,7 +60,6 @@ experience:
     date_start: '2017-05-01'
     date_end: '2019-05-01'
     description: |2-
-
         * Responsible for cost, value, and feasibility analysis for Stellantis, Ford, BMW, and Volvo Laser/LiDAR scanning programs.
         * Implemented continous imprvement practices to reduce CAD modeling defects by over 20%.
         * Implemented risk mitigation plans and root cause analysis using a 5 Why’s system.

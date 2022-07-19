@@ -14,14 +14,14 @@ organizations:
     url: https://www.umdearborn.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include, safety of autonomous vehicles, p development of practical solutions using cusotmized deep learning, and explainable AI.
+bio: My research interests include, safety of autonomous vehicles, development of practical solutions using cusotmized deep learning, and explainable AI.
 
 # Interests to show in About widget
 interests:
   - Autonomous and Connected Vehicles
   - Explainable Artificial Intelligence
   - Machine Learning
-  - Simulation & Synthetic Data Generation
+  - Synthetic Data Generation
   - Time Series Modeling
   - Customized Deep Learning
   - Information Retrieval
@@ -76,6 +76,6 @@ highlight_name: true
 
 I am a Ph.D. candidate at the University of Michigan-Dearborn.
 
-Machine Learning (ML) engineer with a demonstrated history of working in think tanks, academia and industry on autonomous vehicles, warranty analytics, and Lithium-ion batteries. My expertise lies in building solutions using data analytics, machine learning, artificial bayesian methods and simulation tools in the transportation industry.
+Machine Learning (ML) engineer with a demonstrated history of working in think-tanks, academia and industry on autonomous vehicles, warranty analytics, and Lithium-ion batteries. My expertise lies in building solutions using machine learning, artificial intelligence, bayesian methods, and simulation tools for the world of automated and connected mobilty.
 
 ---
