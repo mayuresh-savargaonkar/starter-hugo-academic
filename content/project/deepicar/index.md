@@ -34,7 +34,7 @@ url_video: 'https://github.com/mayuresh-savargaonkar/custom_picar/blob/master/vi
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-[LKAS Video!](LKAS.gif)
+[](LKAS.gif)
 
 Autonomous vehicles have always intrigued me! Until today, I was fortunate to align and work along with excellent minds at the University of Michigan and Ford Motor Company. Although I have a some experience with AV stacks, I never played with hardware - until now.
 
@@ -45,9 +45,9 @@ Hardware -
 
 The PiCar hardware can be bought [here](https://www.amazon.com/SunFounder-Raspberry-Graphical-Programming-Electronic/dp/B06XWSVLL8) for $100 a piece. Again, David Tian does an excellent job of summarizing all necessary hardware. Again though, I wasn't able to find the 18650 batteries on amazon. I simply bought them at [BatteriesPlus](https://www.batteriesplus.com/productdetails/nure18650=1).
 
-[PiCar](img_2.jpg)
+[](img_2.jpg)
 
-[PiCar](img_3.jpg)
+[](img_3.jpg)
 
 Programming Skills- 
 
