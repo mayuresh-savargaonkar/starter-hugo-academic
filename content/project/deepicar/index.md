@@ -14,7 +14,7 @@ date: '2022-07-18T00:00:00Z'
 external_link: ''
 
 image:
-  caption: I Tried Lane Centering
+  caption: I Tried Lane Centering!
   focal_point: Smart
 
 links:
@@ -44,18 +44,20 @@ This project was made possible by awesome guides by [David Tian](https://towards
 
 Required Hardware - 
 
-The PiCar hardware can be bought [here](https://www.amazon.com/SunFounder-Raspberry-Graphical-Programming-Electronic/dp/B06XWSVLL8) for $100 a piece. Again, David Tian does an excellent job of summarizing all necessary hardware. Again though, I wasn't able to find the 18650 batteries on amazon. I simply bought them at [BatteriesPlus](https://www.batteriesplus.com/productdetails/nure18650=1).
+The PiCar hardware can be bought [here](https://www.amazon.com/SunFounder-Raspberry-Graphical-Programming-Electronic/dp/B06XWSVLL8) for $100 a piece. David Tian does an excellent job of summarizing all necessary hardware. Again though, I wasn't able to find the 18650 batteries on amazon. I simply bought them at [BatteriesPlus](https://www.batteriesplus.com/productdetails/nure18650=1).
+
+Here are some pictures of the assembled cars:
 
 <img alt="" src="img_2.jpg" width="300" />
 <img alt="" src="img_3.jpg" width="300" />
 
 Required Programming Skills - 
 
-1. Familiarity with Python 3.x, PiP
+1. Familiarity with Python 3.x; PiP
 2. RaspberryPi installations 
 3. Some familiarity with Linux
-4. Familiarity with OpenCV, image processing, basic math - [Hough Transforms](https://en.wikipedia.org/wiki/Hough_transform).
+4. Familiarity with Numpy, OpenCV, image processing, basic math - [Hough Transforms](https://en.wikipedia.org/wiki/Hough_transform).
 
-Example Videos - 
+Sample Videos - 
 
 Here are some cool [videos](https://github.com/mayuresh-savargaonkar/custom_picar/tree/master/videos)! The cars lane keep and center (almost!). I will upload more content, details and codes soon!
