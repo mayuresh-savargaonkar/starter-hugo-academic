@@ -25,7 +25,7 @@ links:
 url_code: 'https://github.com/mayuresh-savargaonkar/custom_picar'
 url_pdf: 'https://arxiv.org/pdf/1712.08644.pdf'
 url_slides: ''
-url_video: 'https://github.com/mayuresh-savargaonkar/custom_picar/blob/master/videos/videos.mp4'
+url_video: 'LKAS.gif'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -48,7 +48,7 @@ The PiCar hardware can be bought [here](https://www.amazon.com/SunFounder-Raspbe
 
 <img alt="" src="img_2.jpg" width="200" /> <img alt="" src="img_3.jpg" width="200" />
 
-Programming Skills- 
+Programming Skills - 
 
 1. Familiarity with Python 3.x, PiP
 2. RaspberryPi installations 
