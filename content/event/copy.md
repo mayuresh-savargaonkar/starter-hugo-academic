@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: Informs Annual Meeting
 
 event: Wowchemy Conference
 event_url: https://example.org

@@ -37,12 +37,16 @@ url_video: 'LKAS.gif'
 
 <img alt="" src="LKAS.gif" align="center" />
 
+<center> Introduction </center>
+
+
 Autonomous vehicles have always intrigued me! Until today, I was fortunate to align and work along with excellent minds at the University of Michigan and Ford Motor Company. Although I have a some experience with AV stacks, I never played with hardware - until now.
 
 This project was made possible by awesome guides by [David Tian](https://towardsdatascience.com/deeppicar-part-1-102e03c83f2c) and the hardware sold by Sunfounder's PiCar project. However, some of the installation procedures, codes and algorithms are from 2019 and may or may not work in 2022. In the case that you are another AV enthusiast like me and don't want to waste time trying to figure why the car wont lane center, I will upload all modified codes [here](https://github.com/mayuresh-savargaonkar/custom_picar).
 
+---
 
-Required Hardware - 
+<center> Required Hardware </center> 
 
 The PiCar hardware can be bought [here](https://www.amazon.com/SunFounder-Raspberry-Graphical-Programming-Electronic/dp/B06XWSVLL8) for $100 a piece. David Tian does an excellent job of summarizing all necessary hardware. Again though, I wasn't able to find the 18650 batteries on amazon. I simply bought them at [BatteriesPlus](https://www.batteriesplus.com/productdetails/nure18650=1).
 
@@ -51,13 +55,17 @@ Here are some pictures of the assembled cars:
 <img alt="" src="img_2.jpg" width="300" />
 <img alt="" src="img_3.jpg" width="300" />
 
-Required Programming Skills - 
+---
+
+<center> Required Programming Skills </center> 
 
 1. Familiarity with Python 3.x; PiP
 2. RaspberryPi installations 
 3. Some familiarity with Linux
 4. Familiarity with Numpy, OpenCV, image processing, basic math - [Hough Transforms](https://en.wikipedia.org/wiki/Hough_transform).
 
-Sample Videos - 
+---
 
-Here are some cool [videos](https://github.com/mayuresh-savargaonkar/custom_picar/tree/master/videos)! The cars lane keep and center (almost!). I will upload more content, details and codes soon!
+<center> Conclusion </center> 
+
+Thats all for now. Here are some cool [videos](https://github.com/mayuresh-savargaonkar/custom_picar/tree/master/videos)! The cars lane keep and center (almost!). I will upload more content, details and codes soon!

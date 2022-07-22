@@ -2,6 +2,7 @@
 title: Cruise's robotaxis blocked Sanfranciso downtown?
 subtitle:
 
+
 # Summary for listings and search engines
 summary: Cruise's robotaxis blocked Sanfranciso downtown after puzzling cops earlier last month. What happened ?
 
@@ -49,5 +50,7 @@ On the whole, after reading a bit and consulting with experts, it looks like eit
 
 Although Cruise is a leading transportation company, I think it still needs to complete a learning curve that Waymo (and May mobility for some part) has undergone. Rather than criticizing Cruise, as always, we (the AV community) shall learn from these issues, develop safer solutions and move ahead! AVs are coming.
 
-Additional reading from [CNBC](https://www.cnbc.com/2022/07/01/self-driving-cars-from-gms-cruise-block-san-francisco-streets.html) and [techcrunch.](https://techcrunch.com/2022/06/30/cruise-robotaxis-blocked-traffic-for-hours-on-this-san-francisco-street/)
+---
+
+Additional reading from [CNBC](https://www.cnbc.com/2022/07/01/self-driving-cars-from-gms-cruise-block-san-francisco-streets.html) and [Techcrunch.](https://techcrunch.com/2022/06/30/cruise-robotaxis-blocked-traffic-for-hours-on-this-san-francisco-street/)
 

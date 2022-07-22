@@ -32,12 +32,11 @@ experience:
     description: |2-
         My top research projects include: 
         
-        * Safety of Autonomous Vehicles (AVs) -  SOTIF & ISO 21448
+        * Safety of Autonomous Vehicles (AVs) -  SOTIF & ISO 21448.
         * Virtual verification and validation of AVs. 
-          More info [here.](https://vtrackit.irda.club)
-        * Exploration of V2I and V2V technologies for safer trajectory predictions using GAN-based models.
-        * Customized DL solutions for SOC/SOH/RUL estimation in Lithium-ion batteries.
-        * Development of explainable AI and Bayesian methods for warranty analytics.
+        * Exploration of Vehicl-to-Infrastructure (V2I) and Vehicle-to-Vehicle (V2V) technologies for safer trajectory predictions using GAN-based models. More info [here.](https://vtrackit.irda.club)
+        * Customized DL solutions for SOC/SOH/RUL estimation in Lithium-ion batteries. More info [here.](/publication/nngp)
+        * Development of explainable AI and Bayesian methods for warranty analytics. More info [here.](/publication/cgmm)
 
   - title: Research Intern
     company: Ford Motor Company
@@ -47,7 +46,7 @@ experience:
     date_start: '2021-06-01'
     date_end: '2021-08-18'
     description: |2-
-        * Developed ROS-based pythonic library for Software-In-Loop (SIL) and Hardware-In-Loop (HIL) testing for L3+ ADAS features
+        * Developed ROS-based pythonic library for Software-In-Loop (SIL) and Hardware-In-Loop (HIL) testing for L3+ ADAS features.
         * Developed and deployed framework for corner-case realization within self-driving stacks.
         * Replicated processed sensor fusion (Camera, LiDAR, Radar)outputs for real-time communication with driving policies.
         * Developed OpenDrive maps for integration with CARLA simulator.
