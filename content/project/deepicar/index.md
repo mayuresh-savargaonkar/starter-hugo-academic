@@ -34,11 +34,12 @@ url_video: 'LKAS.gif'
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+---
 
-<img alt="" src="LKAS.gif" align="center" />
 
 <center> Introduction </center>
 
+<img alt="" src="LKAS.gif" align="center" />
 
 Autonomous vehicles have always intrigued me! Until today, I was fortunate to align and work along with excellent minds at the University of Michigan and Ford Motor Company. Although I have a some experience with AV stacks, I never played with hardware - until now.
 
