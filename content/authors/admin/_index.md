@@ -76,6 +76,6 @@ highlight_name: true
 
 I am a Ph.D. candidate at the University of Michigan-Dearborn.
 
-Machine Learning (ML) engineer with a demonstrated history of working in think-tanks, academia and industry on autonomous vehicles, warranty analytics, and Lithium-ion batteries. My expertise lies in building solutions using machine learning, artificial intelligence, bayesian methods, and simulation tools for the world of automated and connected mobilty.
+Industrial engineer with a demonstrated history of working in think-tanks, academia and industry on autonomous vehicles, warranty analytics, and Lithium-ion batteries. My expertise lies in building solutions using machine learning, artificial intelligence, bayesian methods, and simulation tools for the world of automated and connected mobilty.
 
 ---
