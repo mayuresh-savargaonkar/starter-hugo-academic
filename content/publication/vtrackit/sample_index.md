@@ -6,15 +6,14 @@ title: 'A Novel Neural Network with Gaussian Process Feedback for Modeling the S
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Abdallah Chehade
-  - Ala A. Hussein
+# - Robert Ford
 
 # Author notes (optional)
 author_notes:
   - 'Primary author'
 
 date: '2022-04-27T00:00:00Z'
-doi: 'https://doi.org/10.1109/TIA.2022.3170842'
+doi: ' 10.1109/TIA.2022.3170842'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-04-27T00:00:00Z'
@@ -37,7 +36,7 @@ abstract: Although several state-of-charge (SOC) estimation methods have been pr
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
@@ -75,3 +74,13 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: "" #example
 ---
+
+# {{% callout note %}}
+# Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata # into their reference management software.
+# {{% /callout %}}
+
+# {{% callout note %}}
+# Create your slides in Markdown - click the _Slides_ button to check out the example.
+# {{% /callout %}}
+
+# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
