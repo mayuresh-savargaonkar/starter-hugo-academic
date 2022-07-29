@@ -14,17 +14,18 @@ organizations:
     url: https://www.umdearborn.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include, safety of autonomous vehicles, development of practical solutions using cusotmized deep learning, and explainable AI.
+bio: My research interests include, safety of autonomous vehicles, development of practical solutions using customized deep learning, and explainable AI.
 
 # Interests to show in About widget
 interests:
   - Autonomous and Connected Vehicles
+  - Connected Transportation and Mobility
+  - Autonomous Vehicle Simulation
   - Explainable Artificial Intelligence
-  - Machine Learning
-  - Synthetic Data Generation
-  - Time Series Modeling
+  - Spatio-Temporal Modeling
   - Customized Deep Learning
-  - Information Retrieval
+  - Remaining Useful Life
+  - Lithium-ion Batteries
 
 # Education to show in About widget
 education:
@@ -74,8 +75,9 @@ email: 'mayuresh@umich.edu'
 highlight_name: true
 ---
 
-I am a Ph.D. candidate at the University of Michigan-Dearborn.
-
-Industrial engineer with a demonstrated history of working in think-tanks, academia and industry on autonomous vehicles, warranty analytics, and Lithium-ion batteries. My expertise lies in building solutions using machine learning, artificial intelligence, bayesian methods, and simulation tools along with engineering principles for the world of automated and connected mobilty.
+An industrial engineer with a demonstrated history of working in think tanks, academia, and industry on Autonomous
+Vehicles (AVs), warranty analytics, and Lithium-ion batteries. My expertise lies in building solutions using machine
+learning, artificial intelligence, Bayesian methods, simulation tools, and engineering and physics principles for the world
+of automated and connected mobility.
 
 ---
