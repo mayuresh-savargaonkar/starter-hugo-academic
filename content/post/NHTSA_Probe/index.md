@@ -25,8 +25,8 @@ featured: false
 image:
   caption: 'Image credit: [WSJ](https://www.wsj.com/articles/tesla-tops-u-s-agency-list-of-crashes-suspected-to-involve-driver-assistance-technology-11655299175?mod=hp_lead_pos7)'
   focal_point: ''
-  placement: 2
-  preview_only: true
+  placement: 1
+  preview_only: false
 
 authors:
   - admin

@@ -1,5 +1,5 @@
 ---
-title: I got the Dearborn Difference Maker award!
+title: I got the Difference Maker award!
 subtitle:
 
 
@@ -27,13 +27,23 @@ image:
   caption: ''
   focal_point: ''
   placement: 1
-  preview_only: true
+  preview_only: false
 
 authors:
   - admin
 
-tags: #differencemakers #umdearborn #awards #thankyou
-#autonomousvehicles #safety #connectedcar #selfdrivingcars #machinelearning #ai
+tags:
+  - Thankyou
+  - Award
+  - UMDearborn
+  - Michigan
+  - DifferenceMaker2022
+  - Deep Learning
+  - Autonomous Vehicles
+  - Self-driving Cars
+  - Machine Learning
+  - AV Safety
+
 
 categories:
 

@@ -27,7 +27,7 @@ image:
   caption: 'Image credit: [Cruise](https://www.getcruise.com)'
   focal_point: ''
   placement: 1
-  preview_only: true
+  preview_only: false
 
 authors:
   - admin
