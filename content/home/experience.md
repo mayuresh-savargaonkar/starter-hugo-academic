@@ -34,7 +34,7 @@ experience:
         
         * Safety of Autonomous Vehicles (AVs) -  SOTIF & ISO 21448.
         * Virtual verification and validation of AVs. 
-        * Exploration of Vehicl-to-Infrastructure (V2I) and Vehicle-to-Vehicle (V2V) technologies for safer trajectory predictions using GAN-based models. More info [here.](https://vtrackit.irda.club)
+        * Exploration of Vehicle-to-Infrastructure (V2I) and Vehicle-to-Vehicle (V2V) technologies for safer trajectory predictions using GAN-based models. More info [here.](https://vtrackit.irda.club)
         * Customized DL solutions for SOC/SOH/RUL estimation in Lithium-ion batteries. More info [here.](/publication/nngp)
         * Development of explainable AI and Bayesian methods for warranty analytics. More info [here.](/publication/cgmm)
 
