@@ -52,7 +52,7 @@ experience:
         * Developed OpenDrive maps for integration with CARLA simulator.
 
   - title: Industrial Engineering Program Manager
-    company: Production modeling Corporation
+    company: Production Modeling Corporation
     company_url: 'https://pmcorp.com'
     company_logo:
     location: Dearborn, Michigan

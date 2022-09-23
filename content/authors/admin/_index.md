@@ -24,20 +24,20 @@ interests:
   - Explainable Artificial Intelligence
   - Spatio-Temporal Modeling
   - Customized Deep Learning
-  - Remaining Useful Life
+  - Active Learning and Bayesian Design
   - Lithium-ion Batteries
 
 # Education to show in About widget
 education:
   courses:
     - course: Ph.D. in Industrial and Systems Engineering
-      institution: University of Michigan - Dearborn
+      institution: University of Michigan - Dearborn, USA
       year: 2019-2023
     - course: M.S. Industrial Engineering
-      institution: University of Michigan - Dearborn
+      institution: University of Michigan - Dearborn, USA
       year: 2018
     - course: B.E. Mechanical Engineering
-      institution: University of Pune
+      institution: University of Pune, India
       year: 2015
 
 # Social/Academic Networking
