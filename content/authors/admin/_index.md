@@ -77,7 +77,7 @@ highlight_name: true
 
 An industrial engineer with a demonstrated history of working in think tanks, academia, and industry on Autonomous
 Vehicles (AVs), warranty analytics, and Lithium-ion batteries. My expertise lies in building solutions using machine
-learning, artificial intelligence, Bayesian methods, simulation tools, and engineering and physics principles for the world
+learning, artificial intelligence, Bayesian methods, simulation tools, and engineering/physics principles for the world
 of automated and connected mobility.
 
 ---
