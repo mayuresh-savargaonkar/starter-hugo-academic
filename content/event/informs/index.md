@@ -60,4 +60,4 @@ projects: []
 #  - example
 ---
 
-This talk was presented at the INFORMS Annual Meeting and was sponsored by the QCRE division. Thank you all for attending! 
+This talk was presented at the INFORMS Annual Meeting and was sponsored by the QSR division. Thank you all for attending! 
