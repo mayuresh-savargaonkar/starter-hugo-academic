@@ -6,7 +6,7 @@ title: Mayuresh Savargaonkar
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: Ph.D.
 
 # Organizations/Affiliations to show in About widget
 organizations:
