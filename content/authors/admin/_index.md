@@ -10,8 +10,8 @@ role: Ph.D.
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Michigan - Dearborn
-    url: https://www.umdearborn.edu/
+  - name: Idaho National Lab
+    url: https://inl.gov/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include, safety of autonomous vehicles, development of practical solutions using customized deep learning, and explainable AI.
