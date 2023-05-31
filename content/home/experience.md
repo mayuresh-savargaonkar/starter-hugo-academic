@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Electric Vehicle Reliability Engineer
+  - title: Electric Vehicle Infrastructure Reliability Engineer
     company: Idaho National Laboratory
     company_url: 'https://inl.gov/'
     company_logo:
