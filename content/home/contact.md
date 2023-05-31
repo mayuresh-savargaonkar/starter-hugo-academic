@@ -27,10 +27,10 @@ content:
   # Contact details (edit or remove options as required)
   email: mayuresh@umich.edu
   address:
-    street: 1340 HPEC, 4901 Evergreen Road
-    city: Dearborn
-    region: MI
-    postcode: '48108'
+    street: 1955 N. Fremont Ave.
+    city: Idaho Falls
+    region: ID
+    postcode: '84301'
     country: United States
     country_code: US
   coordinates:
