@@ -14,7 +14,7 @@ organizations:
     url: https://inl.gov/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include, safety of autonomous vehicles, development of practical solutions using customized deep learning, and explainable AI.
+bio: My research interests include, verification and validation of modern systems, electric vehicle charging infrastructure, Li-ion battery prognostics using customized deep learning, and explainable AI.
 
 # Interests to show in About widget
 interests:
@@ -75,9 +75,6 @@ email: 'mayuresh@umich.edu'
 highlight_name: true
 ---
 
-An industrial engineer with a demonstrated history of working in think tanks, academia, and industry on Autonomous
-Vehicles (AVs), warranty analytics, and Lithium-ion batteries. My expertise lies in building solutions using machine
-learning, artificial intelligence, Bayesian methods, simulation tools, and engineering/physics principles for the world
-of automated and connected mobility.
+As an industrial engineer, I have embarked on a remarkable journey spanning think tanks, academia, and industry. With an unwavering passion for the automotive domain, my expertise shines in the captivating realm of electric, automated, and connected mobility. Harnessing the power of cutting-edge technologies like machine learning, artificial intelligence, Bayesian methods, simulation tools, and the bedrock of engineering and physics, I take great delight in crafting ingenious solutions that propel the boundaries of modern transportation to new heights.
 
 ---
