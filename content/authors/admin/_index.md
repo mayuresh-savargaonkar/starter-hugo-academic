@@ -18,14 +18,14 @@ bio: My research interests include, safety of autonomous vehicles, development o
 
 # Interests to show in About widget
 interests:
-  - Autonomous and Connected Vehicles
-  - Connected Transportation and Mobility
-  - Autonomous Vehicle Simulation
+  - Electric and Connected Vehicles
+  - EV Charging Infrastructure
+  - Lithium-ion Batteries
   - Explainable Artificial Intelligence
   - Spatio-Temporal Modeling
   - Customized Deep Learning
   - Active Learning and Bayesian Design
-  - Lithium-ion Batteries
+  - Autonomous Vehicle Simulation
 
 # Education to show in About widget
 education:

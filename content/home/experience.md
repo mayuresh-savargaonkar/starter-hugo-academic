@@ -22,13 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Electric Vehicle Reliability Engineer
+    company: Idaho National Laboratory
+    company_url: 'https://inl.gov/'
+    company_logo:
+    location: Idaho Falls, Idaho
+    date_start: '2023-05-08'
+    date_end: ''
+    description: |2-
+        My top research projects include: 
+        
+        * Electric Vehicle (EV) charging infrastructure reliability improvement. More info [here.](https://chargex.inl.gov/)
+        * EV-EVSE communication using ISO 15118.
+        * Error reporting using OCPP and OCPI standards.
+        * Customized DL solutions for SOC/SOH/RUL estimation in Lithium-ion batteries.
+        * Explainable AI for advanced battery prognostics and diagnostics.
+
   - title: Ph.D. Researcher
     company: University of Michigan-Dearborn
     company_url: 'https://umdearborn.edu/mayuresh-savargaonkar'
     company_logo:
     location: Dearborn, Michigan
     date_start: '2019-09-01'
-    date_end: ''
+    date_end: '2023-04-30'
     description: |2-
         My top research projects include: 
         
