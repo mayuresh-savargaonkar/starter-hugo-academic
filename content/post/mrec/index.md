@@ -1,10 +1,10 @@
 ---
-title: A step towards improving the reliability of the EV charging ecosystem in the USA!  
+title: The ChargeX Consortium publishes its first report! 
 subtitle:
 
 
 # Summary for listings and search engines
-summary: The ChargeX Consortium publishes its first report!
+summary: A step towards improving the reliability of the EV charging ecosystem in the USA! 
 
 # Link this post with a project
 projects: []
@@ -16,7 +16,7 @@ date: '2023-09-15-13T00:00:00Z'
 lastmod: '2023-09-16T00:00:00Z'
 
 # Is this an unpublished draft?
-draft: true
+draft: false
 
 # Show this page in the Featured widget?
 featured: true
