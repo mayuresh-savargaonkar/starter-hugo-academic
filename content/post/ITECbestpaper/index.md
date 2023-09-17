@@ -1,6 +1,6 @@
 ---
 title: We won the best paper award!
-subtitle: The IRDA Lab team at UM-Dearborn won the bets paper award at the IEEE ITEC 2023 conference!
+subtitle: The IRDA Lab team at UM-Dearborn won the best paper award at the IEEE ITEC 2023 conference!
 
 
 # Summary for listings and search engines
