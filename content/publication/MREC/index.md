@@ -1,5 +1,5 @@
 ---
-title: 'Orthogonal Autoencoder for Long-Term State-of-Charge Forecasting of Li-ion Battery Cells'
+title: 'Recommendations for Minimum Required Error Codes'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -11,7 +11,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Second author'
+  - 'Primary author'
 
 date: '2023-09-15T00:00:00Z'
 doi: ''
@@ -26,10 +26,10 @@ publishDate: '2023-09-15T00:00:00Z'
 publication_types: ['4']
 
 # Publication name and optional abbreviated publication name.
-publication: 2023 IEEE Transportation Electrification Conference & Expo (ITEC)
+publication: Idaho National Laboratory
 publication_short:
 
-abstract: This paper proposes an Orthogonal Autoencoded Long-Short- Term Memory (OALSTM) network for long-term the State-Of-Charge (SOC) forecasting in Lithium-ion (Li-ion) battery cells. By leveraging the use of LSTMs in capturing temporal trends and orthogonal Autoencoder for extracting non- trivial robust latent features, OALSTM can achieve precise and accurate long-term SOC estimations near the end-of-life. One key contribution is learning orthogonal temporal encodings that generalize for long-term forecasting because it reduces the likelihood of false multicollinearity. Our results show that OALSTM outperforms other benchmark models for long-term SOC estimation of Li-ion battery cells under varying charging and discharging conditions.
+abstract: The flexibility offered by the Open Charge Point Protocol (OCPP) through the introduction of custom error codes also creates its own set of challenges. While the integration of custom error codes allows for enhanced granularity, it also introduces inconsistencies and fragmentation within the overarching diagnostic reporting system. Consequently, these custom error codes add an additional layer of complexity to the already intricate tasks of error reporting, diagnostics, and resolution. The variation in the definition of custom error codes makes it difficult to assess which entity in the charging ecosystem is responsible to correct errors and hinders the implementation of uniform error handling procedures across diverse charging stations and management systems. This results in prolonged resolution times and increased maintenance costs, resulting in decreased charging reliability. The challenge of charging reliability can be a significant obstacle to the widespread adoption of EVs, emphasizing the urgent need for a more robust approach to error handling across the EV charging ecosystem.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis # placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -37,14 +37,14 @@ abstract: This paper proposes an Orthogonal Autoencoded Long-Short- Term Memory 
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/document/10186948'
+url_pdf: 'https://inl.gov/content/uploads/2023/07/ChargeX_MREC_Rev5_09.12.23.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
