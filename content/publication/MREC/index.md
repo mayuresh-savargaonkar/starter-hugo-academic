@@ -10,7 +10,7 @@ authors:
   - Kaleb Houck
 
 # Author notes (optional)
-author_notes:
+author_notes: 'Primary Author'
 
 date: '2023-09-15T00:00:00Z'
 doi: ''
