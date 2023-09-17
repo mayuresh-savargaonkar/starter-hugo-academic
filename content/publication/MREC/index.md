@@ -8,7 +8,7 @@ authors:
   - admin
   - Benny Varghese
   - Kaleb Houck
-
+  
 # Author notes (optional)
 author_notes: 'Primary author'
 
