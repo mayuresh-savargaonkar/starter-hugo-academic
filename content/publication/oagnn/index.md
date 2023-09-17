@@ -5,8 +5,8 @@ title: 'Orthogonal Autoencoder for Long-Term State-of-Charge Forecasting of Li-i
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Wael Hassanieh
   - admin
+  - Wael Hassanieh
   - Abdallah Chehade
 
 # Author notes (optional)
