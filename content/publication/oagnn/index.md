@@ -1,24 +1,23 @@
 ---
-title: 'A Hybrid Long Short-Term Memory Network for State-of-Charge Estimation of Li-ion Batteries'
+title: 'Orthogonal Autoencoder for Long-Term State-of-Charge Forecasting of Li-ion Battery Cells'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Isaiah Oyewole
+  - Wael Hassanieh
   - admin
   - Abdallah Chehade
-  - Ala A. Hussein
 
 # Author notes (optional)
 author_notes:
   - 'Second author'
 
-date: '2021-08-02T00:00:00Z'
-doi: ' https://doi.org/10.1109/ITEC51675.2021.9490188'
+date: '2023-07-25T00:00:00Z'
+doi: 'https://doi.org/10.1109/ITEC55900.2023.10186948'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-08-02T00:00:00Z'
+publishDate: '2023-07-25T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,10 +26,10 @@ publishDate: '2021-08-02T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication:  2021 IEEE Transportation Electrification Conference & Expo (ITEC)
+publication:  2023 IEEE Transportation Electrification Conference & Expo (ITEC)
 publication_short:
 
-abstract: This paper proposes a hybrid LSTM network for robust state-of-charge estimation of Li-ion batteries. The proposed model improves the estimation accuracy of a typical LSTM by using the SOC estimations of other trained machine learning (ML) models in addition to the original measurable battery cell parameters to train the LSTM. The hybrid LSTM intrinsically learns to timely activate the proper ML model by learning the complex dependencies between the accuracy of ML models and cell parameters. The proposed model is shown to achieve around 25% improvement in MAE for the last twenty cycles (near end-of-life) SOC estimation.
+abstract: This paper proposes an Orthogonal Autoencoded Long-Short- Term Memory (OALSTM) network for long-term the State-Of-Charge (SOC) forecasting in Lithium-ion (Li-ion) battery cells. By leveraging the use of LSTMs in capturing temporal trends and orthogonal Autoencoder for extracting non- trivial robust latent features, OALSTM can achieve precise and accurate long-term SOC estimations near the end-of-life. One key contribution is learning orthogonal temporal encodings that generalize for long-term forecasting because it reduces the likelihood of false multicollinearity. Our results show that OALSTM outperforms other benchmark models for long-term SOC estimation of Li-ion battery cells under varying charging and discharging conditions.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis # placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -45,7 +44,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9490188'
+url_pdf: 'https://ieeexplore.ieee.org/document/10186948'
 url_code: ''
 url_dataset: ''
 url_poster: ''
