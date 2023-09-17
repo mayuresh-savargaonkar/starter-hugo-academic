@@ -10,7 +10,7 @@ authors:
   - Abdallah Chehade
 
 # Author notes (optional)
-author_notes:
+author_notes: 'Second Author'
 
 date: '2023-07-25T00:00:00Z'
 doi: '10.1109/ITEC55900.2023.10186948'
