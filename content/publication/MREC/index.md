@@ -10,7 +10,7 @@ authors:
   - Kaleb Houck
 
 # Author notes (optional)
-author_notes: 'Primary Author'
+author_notes: 'Primary author'
 
 date: '2023-09-15T00:00:00Z'
 doi: ''
@@ -36,7 +36,7 @@ abstract: The flexibility offered by the OCPP frameworks through the introductio
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
