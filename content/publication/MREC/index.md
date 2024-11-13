@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://inl.gov/content/uploads/2023/07/ChargeX_MREC_Rev5_09.12.23.pdf'
+url_pdf: 'https://www.osti.gov/biblio/2369573'
 url_code: ''
 url_dataset: ''
 url_poster: ''
