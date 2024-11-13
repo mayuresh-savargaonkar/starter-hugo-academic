@@ -6,18 +6,19 @@ title: 'Recommendations for Minimum Required Error Codes'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Benny Varghese
   - Kaleb Houck
+  - Benny J. Varghese
+  - Bryan Nystrom
 
 # Author notes (optional)
 author_notes:
   - 'Primary author'
 
-date: '2023-09-15T00:00:00Z'
+date: '2023-09-29T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-09-15T00:00:00Z'
+publishDate: '2023-09-29T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,7 +30,7 @@ publication_types: ['4']
 publication: Idaho National Laboratory
 publication_short:
 
-abstract: The flexibility offered by the Open Charge Point Protocol (OCPP) through the introduction of custom error codes also creates its own set of challenges. While the integration of custom error codes allows for enhanced granularity, it also introduces inconsistencies and fragmentation within the overarching diagnostic reporting system. Consequently, these custom error codes add an additional layer of complexity to the already intricate tasks of error reporting, diagnostics, and resolution. The variation in the definition of custom error codes makes it difficult to assess which entity in the charging ecosystem is responsible to correct errors and hinders the implementation of uniform error handling procedures across diverse charging stations and management systems. This results in prolonged resolution times and increased maintenance costs, resulting in decreased charging reliability. The challenge of charging reliability can be a significant obstacle to the widespread adoption of EVs, emphasizing the urgent need for a more robust approach to error handling across the EV charging ecosystem.
+abstract: With the growing adoption of Electric Vehicles (EVs), there is an increasing need for a reliable EV charging infrastructure. To help meet this need, the report “Recommendations for Minimum Required Error Codes for Electric Vehicle Charging Infrastructure,” recommends a set of minimum required error codes (MRECs) and their functional and responsibility classification. Charger manufacturers, charging station operators, EV manufacturers, and other stakeholders in the North American market are encouraged to uniformly adopt the MRECs to enhance EV charging error reporting, interpretation, and diagnostics. This document serves as a guide to enable uniform implementation of the MRECs using the Open Charge Point Protocol (OCPP).
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis # placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -44,7 +45,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.osti.gov/biblio/2369573'
+url_pdf: 'https://www.osti.gov/biblio/2369572'
 url_code: ''
 url_dataset: ''
 url_poster: ''
