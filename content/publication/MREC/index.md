@@ -37,7 +37,7 @@ abstract: The flexibility offered by the Open Charge Point Protocol (OCPP) throu
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:

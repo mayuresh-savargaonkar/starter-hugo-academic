@@ -1,5 +1,5 @@
 ---
-title: 'Recommendations for Minimum Required Error Codes'
+title: 'Implementation Guide for Minimum Required Error Codes in Electric Vehicle Charging Infrastructure'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -38,7 +38,7 @@ abstract: With the growing adoption of Electric Vehicles (EVs), there is an incr
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:

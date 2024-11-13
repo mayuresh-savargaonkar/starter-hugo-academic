@@ -36,7 +36,7 @@ abstract: Artificial intelligence solutions for Autonomous Vehicles (AVs) have b
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
