@@ -22,6 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+    - title: Software Systems Engineer
+    company: Electrify America, LLC
+    company_url: 'https://www.electrifyamerica.com/'
+    company_logo:
+    location: Reston, Virginia
+    date_start: '2023-03-17'
+    date_end: ''
+    description: |2-
+        My top research projects include: 
+        
+        * Development of AI-driven charger health prediction models.
+        * Development of energy managment system.
+        * Prediction of EV charging curves.
+        * Advancing EA's BESS management algorithms.
+
   - title: Electric Vehicle Infrastructure Reliability Engineer
     company: Idaho National Laboratory
     company_url: 'https://inl.gov/'
