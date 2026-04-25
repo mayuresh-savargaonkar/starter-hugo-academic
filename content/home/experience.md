@@ -43,7 +43,7 @@ experience:
     company_logo:
     location: Idaho Falls, Idaho
     date_start: '2023-05-08'
-    date_end: '2023-03-14'
+    date_end: '2025-03-14'
     description: |2-
         My top research projects include: 
         
